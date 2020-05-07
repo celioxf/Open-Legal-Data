@@ -1,0 +1,2 @@
+# Open-Legal-Data
+Open Legal Data is a project that aims to make legal data more accessible. It aims to take the problem that a lot of data produced by courts in Germany and in many countries is public, but not made accessible to the public or available in a structured format. As a former Lawyer, I could immediately relate to this problem and decided to test the Open Legal Data Plataform. This folder contains my experiments with the Data provided by this awesome project.
